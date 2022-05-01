@@ -1,0 +1,47 @@
+# jemdoc: menu{MENU}{publication.html}
+= Publications 
+[https://scholar.google.com/citations?user=PXk1frMAAAAJ&hl=en \[Google Scholar\]]
+
+~~~
+{Preprints}
+- [https://arxiv.org/abs/2011.04102 Reliable Off-policy Evaluation for Reinforcement Learning]\n
+*Jie Wang*, Rui Gao, Hongyuan Zha. In minor revision, [https://pubsonline.informs.org/journal/opre Operations Research]
+- [https://openreview.net/forum?id=tEFhwX8s1GN Training By Vanilla SGD with Larger Learning Rates]\n
+Yueyao Yu, *Jie Wang*, Wenye Li, Yin Zhang.
+- [https://arxiv.org/abs/2105.07669 Capacity Scalability of Line Networks with Batched Codes]\n
+Shenghao Yang, *Jie Wang*, Yanyan Dong, Yiheng Zhang. Submitted to TIT.
+- [https://arxiv.org/abs/2109.11926 Sinkhorn Distributionally Robust Optimization]\n
+*Jie Wang*, Rui Gao, Yao Xie. Submitted to [https://pubsonline.informs.org/journal/opre Operations Research]
+- [https://shhyang.github.io/research/22outagefull.pdf Capacity Scalability of Batched Codes on Line Networks with Outage Links]\n
+Yanyan Dong, *Jie Wang*, Shenghao Yang, Raymond W. Yeung. Submitted to ISIT-22
+- [ Integral Probability Metric with Neural Networks: A Manifold Two-Sample Test Study]\n
+*Jie Wang*, Minshuo Chen, Tuo Zhao, Wenjing Liao, Yao Xie. To be submitted to IMA
+- [ A Mean-Field View Point of Classification Logit Two-Sample Test]\n
+*Jie Wang*, Xiuyuan Cheng, Yao Xie.
+~~~
+
+~~~
+{Conference Papers}
+- [https://arxiv.org/abs/2202.04258 A Data-Driven Approach to Robust Hypothesis Testing Using Sinkhorn Uncertainty Sets]\n
+*Jie Wang*, Yao Xie. 2022 IEEE International Symposium on Information Theory (ISIT)
+- [https://arxiv.org/abs/2102.06449 Two-sample Test with Kernel Projected Wasserstein Distance]\n
+*Jie Wang*, Rui Gao, Yao Xie. 2022 Artificial Intelligence and Statistics (AISTATS) ({{<font color=red <b>}}Oral Presentation! Rate: 44/1685=0.026{{</b></font>}})
+- [https://arxiv.org/abs/2010.11970 Two-sample Test using Projected Wasserstein Distance]\n
+*Jie Wang*, Rui Gao, Yao Xie. 2021 IEEE International Symposium on Information Theory (ISIT)
+- [https://arxiv.org/abs/2105.01370 Small-Sample Inferred Adaptive Recoding for Batched Network Coding]\n
+*Jie Wang*, Zhiyuan Jia, Hoover H. F. Yin, Shenghao Yang. 2021 IEEE International Symposium on Information Theory (ISIT)
+- [https://ieeexplore.ieee.org/abstract/document/9174441/ Upper Bound Scalability on Achievable Rates of Batched Codes for Line Networks]\n
+Shenghao Yang, *Jie Wang*. 2020 IEEE International Symposium on Information Theory (ISIT)
+- [https://ieeexplore.ieee.org/abstract/document/8849792/ On the Capacity Scalability of Line Networks with Buffer Size Constraints]\n
+Shenghao Yang, *Jie Wang*, Yanyan Dong, Yiheng Zhang. 2019 IEEE International Symposium on Information Theory (ISIT)
+- [https://ieeexplore.ieee.org/abstract/document/8437902/ On the Tightness of a Cut-Set Bound on Network Function Computation]\n
+*Jie Wang*, Shenghao Yang, Congduan Li. 2018 IEEE International Symposium on Information Theory (ISIT)
+- [https://www.researchgate.net/publication/336707879_Efficient_Underwater_Sensor_Network_Data_Collection_Employing_Unmanned_Ships Efficient Underwater Sensor Network Data Collection Employing Unmanned Ships]\n
+*Jie Wang*, Jun Ma, Jianyu Yang, Shenghao Yang. The 14th International Conference on Underwater Networks & Systems (WUWNet’19), At Atlanta, GA, USA
+~~~
+
+~~~
+{Chapter}
+- [http://www.itguangzhou.cn/uploads/files/IT-GZ_newsletter_issue1.pdf Finite-length Code and Application in Network Coding]\n
+Shenghao Yang, Yanyan Dong, *Jie Wang*. IEEE INFORMATION THEORY SOCIETY GUANGZHOU CHAPTER NEWSLETTER, No.1, July 2020.
+~~~
