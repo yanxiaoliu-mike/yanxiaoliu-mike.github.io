@@ -1,27 +1,24 @@
 # jemdoc: menu{MENU}{index.html}
-= Jie Wang 
+= Yanxiao Liu(刘延骁)
 
 ~~~
-{}{img_left}{img_Jie.jpg}{alt text}{180px}{}{}
-Jie Wang \n
-Second Year Ph.D. Student\n 
-[https://www.isye.gatech.edu/ H. Milton Stewart School of Industrial and Systems Engineering(ISyE)] \n
-[https://www.gatech.edu/ Georgia Institute of Technology]  \n
-Contact: [jwang3163@gatech.edu Email], [https://github.com/WalterBabyRudin Github]
+{}{img_left}{YanxiaoLiu.jpg}{alt text}{180px}{}{}
+Yanxiao Liu \n
+First Year Ph.D. Student\n 
+[https://www.ie.cuhk.edu.hk/main/index.shtml/ Department of Information Engineering] \n
+[https://www.cuhk.edu.hk/english/index.html/ The Chinese University of Hong Kong]  \n
+Contact: [yanxiaoliu@link.cuhk.edu.hk Email], [https://github.com/yanxiaoliu-mike Github]
 ~~~
 
 == Research
-Advisor: Professor [https://www2.isye.gatech.edu/~yxie77/ Yao Xie] 
+Advisor: Professor [https://www.ie.cuhk.edu.hk/people/ctli.shtml/ Cheuk Ting Li] and [https://www.ie.cuhk.edu.hk/people/raymond.shtml/ Raymond W. Yeung]
 
-My research interest lies in optimization and statistics. Currently I am focusing on various machine learning problems with Optimal Transport. 
+My research interest lies in Information Theory, Network Coding and Wireless Communication. 
 
-I am very fortunate to learn how to do research from Professor [https://faculty.mccombs.utexas.edu/rui.gao/ Rui Gao], Professor [https://www.cc.gatech.edu/people/hongyuan-zha Hongyuan Zha], Professor [https://shhyang.github.io/ Shenghao Yang], Professor [https://www.caam.rice.edu/~zhang/ Yin Zhang], and Professor [https://myweb.cuhk.edu.cn/chenxinyun Xinyun Chen].
+I am very fortunate to learn how to do research from  Professor [https://shhyang.github.io/ Shenghao Yang].
 
 == Service
-Reviewer for [https://www.itsoc.org/jsait JSAIT], [https://signalprocessingsociety.org/publications-resources/ieee-transactions-signal-processing TSP], [https://aistats.org/aistats2021/ AISTATS].
+TPC member for [https://www.wocc.org/#/ WOCC'22].
 
 == News
-- Win the Best Performance Award for Ph.D. Comprehensive Exam in Statistics in 2021!
-- I am back to Atlanta and start my second-year Ph.D. study.
-- Due to visa restrictions, I will start the Ph.D. study online at the first year. Currently I am also a visiting student at [https://sse.cuhk.edu.cn/en SSE] until August, 2021.
-- Obtained Bachelor's degree in Pure of Mathematics Major from [https://www.cuhk.edu.cn/ CUHK(SZ)] in June, 2020.
+- Two papers have been accepted in ISIT 2022.
