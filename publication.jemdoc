@@ -4,42 +4,57 @@
 
 ~~~
 {Preprints}
-\* indicates equal contribution (see footnote on the first page).
-- [papers/One_Shot_NNC.pdf One-Shot Coding over General Noisy Networks]\n
-*Yanxiao Liu*, Cheuk Ting Li. Submitted to ISIT 2024.
-- [https://arxiv.org/pdf/2201.10171.pdf Weighted Parity-Check Codes for Channels with State and Asymmetric Channels]\n
-Chih Wei Ling\*, *Yanxiao Liu\* *, Cheuk Ting Li. Submitted to Transactions on Information Theory.
-- [papers/polar.pdf Weighted Polar Codes for Channels with State]\n
+- [https://arxiv.org/pdf/2402.06021 One-Shot Coding over General Noisy Networks]\n
+*Yanxiao Liu*, Cheuk Ting Li. Submitted to IEEE Transactions on Information Theory, revised in June 2025. 
+- [papers/preprint_scheNC.pdf Joint Scheduling and Multiflow Maximization in Wireless Networks]\n
+*Yanxiao Liu*, Shenghao Yang, Cheuk Ting Li. 
+- [papers/preprint_polar.pdf Weighted Polar Codes for Channels with State]\n
 *Yanxiao Liu*, Chih Wei Ling, Cheuk Ting Li. 
 ~~~
 
 ~~~
 {Journal Papers}
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10534819 Weighted Parity-Check Codes for Channels with State and Asymmetric Channels]\n
+Chih Wei Ling\*, *Yanxiao Liu (equal contribution)\* *, Cheuk Ting Li. IEEE Transactions on Information Theory, August 2024. 
 - [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10285541 Wireless Network Scheduling with Discrete Propagation Delays: Theorems and Algorithms]\n
-Shenghao Yang, Jun Ma, *Yanxiao Liu*. IEEE Transactions on Information Theory, Oct 2023.
+Shenghao Yang, Jun Ma, *Yanxiao Liu*. IEEE Transactions on Information Theory, March 2024. 
 ~~~
 
 ~~~
 {Conference Papers}
+- [https://arxiv.org/pdf/2501.13582 Nonasymptotic Oblivious Relaying and Variable-Length Noisy Lossy Source Coding]\n
+*Yanxiao Liu*, Sepehr Heidari Advary, Cheuk Ting Li. 2025 IEEE International Symposium on Information Theory (ISIT 2025), [Notes/ISIT2025_Oblivious.pdf \[Slides\]]
+- [https://arxiv.org/pdf/2405.20782 Universal Exact Compression of Differentially Private Mechanisms]\n
+*Yanxiao Liu*, Wei-Ning Chen, Ayfer Özgür, Cheuk Ting Li. 2024 Neural Information Processing Systems (NeurIPS 2024), [Notes/NeurIPS24_Poster_PPR.pdf \[Poster\]], [Notes/NeurIPS24_Slides_PPR.pdf \[Slides (short)\]], [Notes/NeurIPS24_Slides_PPR_long.pdf \[Slides (long)\]]
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10806963 One-Shot Information Hiding]\n
+*Yanxiao Liu*, Cheuk Ting Li. 2024 IEEE Information Theory Workshop (ITW 2024), [Notes/ITW24_Slides_Hiding.pdf \[Slides\]]. 
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10619467 One-Shot Coding over General Noisy Networks]\n
+*Yanxiao Liu*, Cheuk Ting Li. 2024 IEEE International Symposium on Information Theory (ISIT 2024), [Notes/ISIT24_Slides_NNC.pdf \[Slides\]]
 - [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10206684 Reliable Throughput of Generalized Collision Channel Without Synchronization]\n
-Yijun Fan, *Yanxiao Liu*, Yi Chen, Shenghao Yang, and Raymond W. Yeung. 2023 IEEE International Symposium on Information Theory (ISIT), [Notes/ISIT23_Reliable.pdf Slides]
+Yijun Fan, *Yanxiao Liu*, Yi Chen, Shenghao Yang, and Raymond W. Yeung. 2023 IEEE International Symposium on Information Theory (ISIT 2023), [Notes/ISIT23_Reliable.pdf \[Slides\]]
 - [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9834878 Continuity of Link Scheduling Rate Region for Wireless Networks with Propagation Delays]\n
-Yijun Fan, *Yanxiao Liu*, Shenghao Yang. 2022 IEEE International Symposium on Information Theory (ISIT), [Notes/ISIT22_Continuity.pdf Slides]
+Yijun Fan, *Yanxiao Liu*, Shenghao Yang. 2022 IEEE International Symposium on Information Theory (ISIT 2022), [Notes/ISIT22_Continuity.pdf \[Slides\]]
 - [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9834658 Weighted Parity-Check Codes for Channels with State and Asymmetric Channels]\n
-Chih Wei Ling, *Yanxiao Liu*, Cheuk Ting Li. 2022 IEEE International Symposium on Information Theory (ISIT), [Notes/ISIT_Weighted_Parity_Check_Code_Presentation.pdf Slides]
+Chih Wei Ling, *Yanxiao Liu*, Cheuk Ting Li. 2022 IEEE International Symposium on Information Theory (ISIT 2022), [Notes/ISIT_Weighted_Parity_Check_Code_Presentation.pdf \[Slides\]]
 - [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9488895 Rate Region of Scheduling a Wireless Network with Discrete Propagation Delays]\n
-Jun Ma, *Yanxiao Liu*, Shenghao Yang. IEEE INFOCOM 2021-IEEE Conference on Computer Communications, 1-10. , [Notes/INFOCOM21_Scheduling.pdf Slides]
+Jun Ma, *Yanxiao Liu*, Shenghao Yang. IEEE INFOCOM 2021-IEEE Conference on Computer Communications (INFOCOM 2021), [Notes/INFOCOM21_Scheduling.pdf \[Slides\]]
 ~~~
 
 ~~~
-{Conference Posters}
-- [Notes/Weighted_Parick_Check_Code_Poster.pdf Weighted Parity-Check Codes], accepted in [http://easit.itguangzhou.cn 2022 IEEE East Asian School of Information Theory]\n
-- [Notes/Weighted_Parick_Check_Code_Poster_WOLIT.pdf Weighted Parity-Check Codes with Low-density Construction], accepted in [http://idi-wolit.com/wolit23/ 2023 International Workshop on Learning and Information Theory (WOLIT'23)]\n
+{Posters and Workshops}
+- [Notes/TPDP_PPR.pdf Universal Exact Compression of Differentially Private Mechanisms]: [https://tpdp.journalprivacyconfidentiality.org/2024/ TPDP 2024]\n 
+- [Notes/ITA24_poster.pdf One-Shot Coding over General Noisy Networks]: [https://ita.ucsd.edu/workshop/ ITA 2024], [https://easit2024.github.io EASIT 2024] and [https://hkgztp.github.io AICIT2024]\n
+- [Notes/Weighted_Parick_Check_Code_Poster_WOLIT.pdf Weighted Parity-Check Codes with Low-density Construction], [http://idi-wolit.com/wolit23/ 2023 International Workshop on Learning and Information Theory (WOLIT 2023)]\n
+- [Notes/Weighted_Parick_Check_Code_Poster.pdf Weighted Parity-Check Codes], [http://easit.itguangzhou.cn 2022 IEEE East Asian School of Information Theory (EASIT 2022)]\n
 ~~~
 
 ~~~
 {Talks}
-- Wireless Link Scheduling with Propagation Delays, CSE&IE Theory Lunch Talk(at)CUHK, 11:00 am-12:00 am, Oct 12, 2021, SHB 833, [Notes/Theory_Talk_Scheduling.pdf Slides]\n
-- Coding Over Sets for DNA Storage, CSE&IE Theory Lunch Talk(at)CUHK, 11:00 am-12:00 am, Nov 11, 2022, SHB 833\n
-- Maximal Clique Enumeration in Periodic Graphs, CSE&IE Theory Lunch Talk(at)CUHK, 11:00 am-12:00 am, Mar 17, 2023, SHB 833\n
+- Nonasymptotic Oblivious Relaying and Variable-Length Noisy Lossy Source Codin, CUHK(SZ) NCLab, Jun 14, 2025. \n
+- Universal Exact Compression of Differentially Private Mechanisms, CUHK CSE&IE Theory Talk, 10:30 am-11:30 am, Nov 29, 2024, SHB 801. \n
+- One-Shot Information Hiding, CUHK CSE&IE Theory Talk, 10:30 am-11:00 am, Nov 12, 2024, SHB 801. \n
+- One-Shot Coding over General Noisy Networks, CUHK CSE&IE Theory Talk, 2:30 pm-3:00 pm, Jun 27, 2024, SHB 833. \n
+- Maximal Clique Enumeration in Periodic Graphs, CUHK CSE&IE Theory Lunch Talk, 11:00 am-12:00 am, Mar 17, 2023, SHB 833. \n
+- Coding Over Sets for DNA Storage, CUHK CSE&IE Theory Lunch Talk, 11:00 am-12:00 am, Nov 11, 2022, SHB 833. \n
+- Wireless Link Scheduling with Propagation Delays, CUHK CSE&IE Theory Lunch Talk, 11:00 am-12:00 am, Oct 12, 2021, SHB 833, [Notes/Theory_Talk_Scheduling.pdf \[Slides\]]. \n
 ~~~
