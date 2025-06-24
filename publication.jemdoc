@@ -44,15 +44,16 @@ Jun Ma, *Yanxiao Liu*, Shenghao Yang. IEEE INFOCOM 2021-IEEE Conference on Compu
 
 ~~~
 {Posters and Workshops}
-- [Notes/TPDP_PPR.pdf Universal Exact Compression of Differentially Private Mechanisms]: [https://tpdp.journalprivacyconfidentiality.org/2024/ TPDP 2024]\n 
-- [Notes/ITA24_poster.pdf One-Shot Coding over General Noisy Networks]: [https://ita.ucsd.edu/workshop/ ITA 2024], [https://easit2024.github.io EASIT 2024] and [https://hkgztp.github.io AICIT2024]\n
-- [Notes/Weighted_Parick_Check_Code_Poster_WOLIT.pdf Weighted Parity-Check Codes with Low-density Construction], [http://idi-wolit.com/wolit23/ 2023 International Workshop on Learning and Information Theory (WOLIT 2023)]\n
-- [Notes/Weighted_Parick_Check_Code_Poster.pdf Weighted Parity-Check Codes], [http://easit.itguangzhou.cn 2022 IEEE East Asian School of Information Theory (EASIT 2022)]\n
+- [Posters/Poster_PPR_2.pdf Universal Exact Compression of Differentially Private Mechanisms 2]: [https://projects.croucher.org.hk/summer-courses/information-theory-5 CSCIT 2025] and [https://aicit2025.github.io AICIT 2025] 
+- [Posters/Poster_PPR_1.pdf Universal Exact Compression of Differentially Private Mechanisms]: [https://tpdp.journalprivacyconfidentiality.org/2024/ TPDP 2024]\n 
+- [Posters/Poster_NNC.pdf One-Shot Coding over General Noisy Networks]: [https://ita.ucsd.edu/workshop/ ITA 2024], [https://easit2024.github.io EASIT 2024] and [https://hkgztp.github.io AICIT2024]\n
+- [Posters/Poster_WPC_2.pdf Weighted Parity-Check Codes with Low-density Construction], [http://idi-wolit.com/wolit23/ 2023 International Workshop on Learning and Information Theory (WOLIT 2023)]\n
+- [Posters/Poster_WPC_1.pdf Weighted Parity-Check Codes], [http://easit.itguangzhou.cn 2022 IEEE East Asian School of Information Theory (EASIT 2022)]\n
 ~~~
 
 ~~~
 {Talks}
-- Nonasymptotic Oblivious Relaying and Variable-Length Noisy Lossy Source Codin, CUHK(SZ) NCLab, Jun 14, 2025. \n
+- Nonasymptotic Oblivious Relaying and Variable-Length Noisy Lossy Source Coding, CUHK(SZ) NCLab, Jun 14, 2025. \n
 - Universal Exact Compression of Differentially Private Mechanisms, CUHK CSE&IE Theory Talk, 10:30 am-11:30 am, Nov 29, 2024, SHB 801. \n
 - One-Shot Information Hiding, CUHK CSE&IE Theory Talk, 10:30 am-11:00 am, Nov 12, 2024, SHB 801. \n
 - One-Shot Coding over General Noisy Networks, CUHK CSE&IE Theory Talk, 2:30 pm-3:00 pm, Jun 27, 2024, SHB 833. \n
