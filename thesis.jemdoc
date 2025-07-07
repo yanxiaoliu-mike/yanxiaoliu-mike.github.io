@@ -1,23 +1,18 @@
-# jemdoc: menu{MENU}{course.html}
-= Teaching
-
-I have served as a teaching assistant for 9 courses, 8 of which were unique, including 2 at the graduate level. My areas of assistance spanned information theory, optimization, probability theory, statistics, mathematics, discrete structures, electronic circuits, and practical computer network laboratories. I prepare materials, give weekly tutorials, hold weekly office hours, and grade homework and exams.
-~~~
-{Graduate School Courses}
-- ENGG5301: Information Theory (Fall 2022-23, Instructor: [https://staff.ie.cuhk.edu.hk/~ctli Prof. Cheuk Ting Li]), [Notes/ENGG5301_Final_Review.pdf Final Review]. {{<font color="Blue">I was the sole TA supporting about 60 PhD students. </font>}}
-- [https://www.comm.utoronto.ca/~sdraper/teachingDir/frame.html CIE/DDA 6010]: Optimization Theory and Examples (Fall 2019-20, Instructor: [https://www.ece.utoronto.ca/people/draper-s/ Prof. Stark Draper]). {{<font color="Blue">I build up, organize and compile lecture notes from scratch (155 pages by LaTeX), see: </font>}}[Notes/CIE6010_2019Fall.pdf Notes]
+# jemdoc: menu{MENU}{thesis.html}
+= Thesis
 
 ~~~
-
+{PhD Thesis}
+- [Documents/PhD_thesis.pdf One-Shot Coding and Applications]
 ~~~
-{Undergraduate Courses}
 
-- IERG2060-ESTR2304: Basic Analog and Digital Circuits (Fall 2021-22, Instructor: [https://www.linkedin.com/in/marcoho/?originalSubdomain=hk Dr. Marco Ho]), [Notes/IERG2060_Syllabus.pdf Syllabus]
-- IERG2470-ESTR2308: Probability Models and Applications (Spring 2021-22, Instructor: [https://www.ie.cuhk.edu.hk/people/raymond.shtml Prof. Raymond W. Yeung]), [Notes/IERG2470_Syllabus.pdf Syllabus], [Notes/IERG2470_midterm.pdf Midterm Review]
-- IERG2470-ESTR2308: Probability Models and Applications (Spring 2022-23, Instructor: [https://staff.ie.cuhk.edu.hk/~ctli Prof. Cheuk Ting Li])
-- IERG3800: Information Infrastructure Design Lab (Fall 2023-24, Instructor: [https://www.ie.cuhk.edu.hk/faculty/lee-yiu-bun-jack/ Prof. Yiu Bun Lee])
-- IERG3050: Simulation and Statistical Analysis (Fall 2023-24, Instructor: [https://staff.ie.cuhk.edu.hk/~ctli Prof. Cheuk Ting Li])
-- ENGG2440: Discrete Mathematics for Engineers (Fall 2024-25, Instructor: [https://staff.ie.cuhk.edu.hk/~ctli Prof. Cheuk Ting Li])
-- MIEG2440-ESTR2362: Discrete Structures and Probability (Spring 2024-25, Instructor: [https://staff.ie.cuhk.edu.hk/~ctli Prof. Cheuk Ting Li])
+Thesis Advisors: 
 
-~~~
+- Prof. [https://staff.ie.cuhk.edu.hk/~ctli Cheuk Ting Li]
+- Prof. [https://www.ie.cuhk.edu.hk/people/raymond.shtml Raymond W. Yeung]
+
+Thesis Committee:
+- Prof. [http://chandra.ie.cuhk.edu.hk Chandra Nair]
+- Prof. [https://www.ie.cuhk.edu.hk/faculty/gohari-amin/ Amin Gohari]
+- Prof. [https://staff.ie.cuhk.edu.hk/~yjzhang/ Angela Yingjun Zhang]
+- Prof. [https://vyftan.github.io/index.html Vincent Y. F. Tan]
