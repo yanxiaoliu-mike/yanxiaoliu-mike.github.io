@@ -19,18 +19,18 @@ From January 2024 to June 2024, I visited Stanford University, [https://isl.stan
 == Research
 Advisors: Professor [https://staff.ie.cuhk.edu.hk/~ctli Cheuk Ting Li] and Professor [https://www.ie.cuhk.edu.hk/people/raymond.shtml Raymond W. Yeung]
 
-My research interests lie in network information theory and applications. With more details, I currently work on the following directons:
+My research interests lie in information theory and applications. I currently work on the following directons (also see my [https://yanxiaoliu-mike.github.io/publication.html \[Publication Page\]]):
 
 === Information Theory: 
 
-I provide one-chot coding schemes and achievability analyses on network information theory problems. 
+I provide nonasymptotic coding schemes and information-theoretic analyses on various network information theory problems. 
 
 See my papers: [https://arxiv.org/pdf/2402.06021 \[Noisy Network Coding\]], [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10806963 \[Watermarking\]], [https://arxiv.org/pdf/2501.13582 \[Oblivious Relaying\]], [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10534819 \[Weighted Parity-Check Codes\]] and [preprints/preprint_polar.pdf \[Soft Polar Codes\]]. 
 
 
 === Compression, Privacy and Distributed Learning:
 
-I employ information-theoretic compression techniques on distributed machine learning and privacy problems. 
+I employ information-theoretic compression techniques on distributed machine learning, security and privacy problems. 
 
 See my papers: [https://arxiv.org/pdf/2405.20782 \[Compression of DP Mechanisms\]], [https://arxiv.org/pdf/2501.13582 \[Information Bottleneck\]] and [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10806963 \[Watermarking\]].
 
@@ -50,5 +50,5 @@ See my papers: [preprints/preprint_scheNC.pdf \[Multiflow Optimization\]], [http
 == News 
 - Jul 2025: I will attend [https://aicit2025.github.io AICIT 2025] in Guangzhou (27-29 July) and [https://projects.croucher.org.hk/summer-courses/information-theory-5 CSCIT 2025] in Hong Kong (3-8 Aug), and present a [Posters/Poster_PPR_2.pdf poster].
 - Jun 2025: I cannot attend ISIT 2025 in-person, due to visa issues. Prof. Cheuk Ting Li will present [https://arxiv.org/pdf/2501.13582 our paper]. 
-- Jun 2025: I passed my Ph.D. oral defense. 
+- Jun 2025: I passed my Ph.D. oral defense, see my [https://yanxiaoliu-mike.github.io/thesis.html \[Thesis Page\]].
 - Apr 2025: [https://arxiv.org/pdf/2501.13582 One paper] has been accepted by ISIT 2025.  
