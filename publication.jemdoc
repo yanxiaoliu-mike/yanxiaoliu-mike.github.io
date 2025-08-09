@@ -4,18 +4,20 @@
 
 ~~~
 {Preprints}
-- [https://arxiv.org/pdf/2402.06021 One-Shot Coding over General Noisy Networks]\n
-*Yanxiao Liu*, Cheuk Ting Li. Submitted to IEEE Transactions on Information Theory, revised in June 2025. 
 - [preprints/preprint_multiflow.pdf Joint Scheduling and Multiflow Maximization in Wireless Networks]\n
-*Yanxiao Liu*, Shenghao Yang, Cheuk Ting Li. Submitted to IEEE Transactions on Networking. 
+*Yanxiao Liu*, Shenghao Yang, Cheuk Ting Li. 
 - [preprints/preprint_bottleneck.pdf Nonasymptotic Oblivious Relaying and Variable-Length Noisy Lossy Source Coding]\n
 *Yanxiao Liu*, Sepehr Heidari Advary, Cheuk Ting Li. 
+- [preprints/preprint_hiding_journal.pdf One-Shot Information Hiding and Compound Wiretap Channels]\n
+*Yanxiao Liu*, Cheuk Ting Li. 
 - [preprints/preprint_polar.pdf Weighted Polar Codes for Channels with State]\n
 *Yanxiao Liu*, Chih Wei Ling, Cheuk Ting Li. 
 ~~~
 
 ~~~
 {Journal Papers}
+- [https://arxiv.org/pdf/2402.06021 One-Shot Coding over General Noisy Networks]\n
+*Yanxiao Liu*, Cheuk Ting Li. IEEE Transactions on Information Theory, Early Access, 2025. 
 - [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10534819 Weighted Parity-Check Codes for Channels with State and Asymmetric Channels]\n
 Chih Wei Ling\*, *Yanxiao Liu\*(equal contribution)*, Cheuk Ting Li. IEEE Transactions on Information Theory, August 2024. 
 - [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10285541 Wireless Network Scheduling with Discrete Propagation Delays: Theorems and Algorithms]\n
