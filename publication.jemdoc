@@ -5,7 +5,7 @@
 ~~~
 {Preprints}
 - [https://arxiv.org/pdf/2602.07999 Tighter Information-Theoretic Generalization Bounds via a Novel Class of Change of Measure Inequalities]\n 
-*Yanxiao Liu*, Yijun Fan, Deniz Gündüz. Under review. 
+*Yanxiao Liu*\*, Yijun Fan\*, Deniz Gündüz. Under review. 
 - [https://arxiv.org/pdf/2601.08386 On the Generalization Error of Differentially Private Algorithms via Typicality]\n 
 *Yanxiao Liu*, Chun Hei Michael Shiu, Lele Wang, Deniz Gündüz. Short version has been accepted to [https://2026.ieee-isit.org/ ISIT 2026]. 
 - [https://arxiv.org/pdf/2509.14582 Joint Scheduling and Multiflow Maximization in Wireless Networks]\n
@@ -54,7 +54,7 @@ Jun Ma, *Yanxiao Liu*, Shenghao Yang. IEEE INFOCOM 2021-IEEE Conference on Compu
 
 ~~~
 {Posters and Workshops}
-- [Posters/Poster_26_GEN_DPI_1.pdf A Unified Framework for Generalization Bounds via Change of Measure Inequalities]: [https://www.izs.ethz.ch/2026 IZS 2026]
+- [Posters/Poster_26_GEN_DPI_1.pdf A Unified Framework for Generalization Bounds via Change of Measure Inequalities]: [https://www.izs.ethz.ch/2026 IZS 2026], [https://2026.ieee-isit.org/call-recent-results ISIT 2026 Recent Result]
 - [Posters/Poster_PPR_2.pdf Universal Exact Compression of Differentially Private Mechanisms 2]: [https://projects.croucher.org.hk/summer-courses/information-theory-5 CSCIT 2025] and [https://aicit2025.github.io AICIT 2025] 
 - [Posters/Poster_PPR_1.pdf Universal Exact Compression of Differentially Private Mechanisms]: [https://tpdp.journalprivacyconfidentiality.org/2024/ TPDP 2024]\n 
 - [Posters/Poster_NNC.pdf One-Shot Coding over General Noisy Networks]: [https://ita.ucsd.edu/workshop/ ITA 2024], [https://easit2024.github.io EASIT 2024] and [https://hkgztp.github.io AICIT2024]\n
