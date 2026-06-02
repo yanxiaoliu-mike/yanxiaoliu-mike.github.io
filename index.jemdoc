@@ -5,8 +5,8 @@
 {}{img_left}{YanxiaoLiu_2.png}{alt text}{180px}{}{}
 Yanxiao Liu \n
 Postdoctoral Research Associate\n 
-[https://www.imperial.ac.uk/information-processing-and-communications-lab/people/yanxiao-liu/ Information Processing and Communications Lab] \n 
-[https://www.imperial.ac.uk Department of Electrical and Electronic Engineerin, Imperial College London] \n
+Department of Electrical and Electronic Engineering\n
+[https://www.imperial.ac.uk, Imperial College London] \n
 Email 1: y.liu2 \[at\] imperial.ac.uk \n
 Email 2: yanxiaoliu \[at\] link.cuhk.edu.hk \n
 [Documents/CV_YanxiaoLiu.pdf \[CV\]]
@@ -14,7 +14,7 @@ Email 2: yanxiaoliu \[at\] link.cuhk.edu.hk \n
 
 == About me
 
-I am currently a postdoctoral research associate at Imperial College London, working with Professor [https://www.imperial.ac.uk/information-processing-and-communications-lab/people/deniz/ Deniz Gündüz] on the project \[Machine Learning and Information Theory\].
+I am currently a postdoctoral research associate at Imperial College London, working with Professor [https://www.imperial.ac.uk/information-processing-and-communications-lab/people/deniz/ Deniz Gündüz] in [https://www.imperial.ac.uk/information-processing-and-communications-lab/people/yanxiao-liu/ Information Processing and Communications Lab].
 
 I received my Ph.D. degree from The Chinese University of Hong Kong in 2025, advised by Professor [https://staff.ie.cuhk.edu.hk/~ctli Cheuk Ting Li] and Professor [https://www.ie.cuhk.edu.hk/people/raymond.shtml Raymond W. Yeung]. 
 
@@ -26,8 +26,7 @@ I received my B.Eng. degree in Electronic Information Engineering and minor degr
 == Research
 
 My research interests lie at the intersection of information theory, machine learning, and privacy.
-I develop novel techniques for non-asymptotic information theory and one-shot achievability results, and I also apply these techniques in various fields of artificial intelligence, including distributed machine learning, sampling problems, LLM inference, LLM watermarking, and generalization performance characterization of learning algorithms.
-In addition, I study several problems related to wireless communication and networking. 
+I develop novel techniques for non-asymptotic information theory, and I apply these techniques in various fields of artificial intelligence, including distributed machine learning, sampling problems, LLM inference, LLM watermarking, and generalization performance characterization of learning algorithms.
 I am always passionate about any form of collaboration and am happy to help or learn new things, so please feel free to contact me. 
 
 == Awards
