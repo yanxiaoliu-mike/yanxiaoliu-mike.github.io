@@ -51,8 +51,8 @@ Session chair:
 
 Reviewer:
 
-- Annual Conference on Neural Information Processing Systems (NeurIPS)
-- International Conference on Machine Learning (ICML)
+- Annual Conference on Neural Information Processing Systems (NeurIPS 2025, 2026)
+- International Conference on Machine Learning (ICML 2026)
 - IEEE Transactions on Information Theory (TIT)  
 - IEEE Transactions on Automatic Control (TAC)  
 - IEEE Transactions on Mobine Computing (TMC)  
@@ -66,6 +66,7 @@ Reviewer:
 - Northern Lights Deep Learning Conference (NLDL)
 
 == News 
+- July 2026: I present our work on [https://arxiv.org/pdf/2601.08386 Generalization Error of DP Algorithms] at [https://2026.ieee-isit.org/ ISIT 2026]. 
 - May 2026: I present our work on [Posters/Poster_26_DP_Dipp.pdf Private Data Compression via Diffusion] in [https://citc.eng.cam.ac.uk/ CITC 2026 at University of Cambridge].
 - May 2026: I am invited to give a talk about [https://arxiv.org/pdf/2602.07999 Change of Measure Inequalities] at [https://talks.cam.ac.uk/talk/index/246731/ Information Theory Seminar, University of Cambridge]. 
 - Apr 2026: One paper on [https://arxiv.org/pdf/2501.13582 Nonasymptotic IB Channel] has been accepted to IEEE Transactions on Information Theory. 
