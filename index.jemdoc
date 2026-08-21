@@ -22,7 +22,6 @@ I was a visiting scholar in [https://isl.stanford.edu Stanford University, ISL L
 
 I received my B.Eng. degree in Electronic Information Engineering and minor degree in Philosophy from The Chinese University of Hong Kong (Shenzhen) in 2021, advised by Professor [https://shhyang.github.io Shenghao Yang]. 
 
-
 == Research
 
 My research interests lie at the intersection of information theory, machine learning, and privacy.
@@ -67,6 +66,7 @@ Reviewer:
 - Northern Lights Deep Learning Conference (NLDL)
 
 == News 
+- Aug 2026: we prove the Marton's Inner Bound is NOT optimal for broadcast channels, see [https://arxiv.org/pdf/2608.19869 Sub-optimality of Marton’s Inner Bound for the Two-Receiver Broadcast Channel]. 
 - July 2026: I present our work on [https://arxiv.org/pdf/2601.08386 Generalization Error of DP Algorithms] at [https://2026.ieee-isit.org/ ISIT 2026]. 
 - May 2026: I present our work on [Posters/Poster_26_DP_Dipp.pdf Private Data Compression via Diffusion] in [https://citc.eng.cam.ac.uk/ CITC 2026 at University of Cambridge].
 - May 2026: I am invited to give a talk about [https://arxiv.org/pdf/2602.07999 Change of Measure Inequalities] at [https://talks.cam.ac.uk/talk/index/246731/ Information Theory Seminar, University of Cambridge]. 
