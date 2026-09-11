@@ -23,10 +23,9 @@ I was a visiting scholar in [https://isl.stanford.edu Stanford University, ISL L
 I received my B.Eng. degree in Electronic Information Engineering and minor degree in Philosophy from The Chinese University of Hong Kong (Shenzhen) in 2021, advised by Professor [https://shhyang.github.io Shenghao Yang]. 
 
 == Research
-
-My research interests lie at the intersection of information theory, machine learning, and privacy.
-I develop novel techniques for non-asymptotic information theory, and I apply these techniques in various fields of artificial intelligence, including distributed machine learning, sampling problems, LLM inference, LLM watermarking, and generalization performance characterization of learning algorithms.
-I am always passionate about any form of collaboration and am happy to help or learn new things, so please feel free to contact me. 
+My research lies at the intersection of network information theory and trustworthy machine learning.
+I develop new information-theoretic techniques and apply them to problems in modern AI, including distributed learning, generative-model samplinge, LLM watermarking, and algorithmic properties.
+I am always happy to explore new ideas and collaborations, so please feel free to reach out.
 
 == Awards
 - CIEIT Best Paper Award (2025) (中国电子学会信息论年会学术论文奖) [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11145915 \[paper\]]
@@ -37,15 +36,12 @@ I am always passionate about any form of collaboration and am happy to help or l
 == Invited Talks 
 - 27 Oct 2026, Invited Talk at Eindhoven University of Technology
 - 28 Aug 2026, Invited Talk at Global Young Scholars' Forum, The Chinese University of Hong Kong (Shenzhen)
-- 13 May 2026, Invited Talk at [https://talks.cam.ac.uk/talk/index/246731/ Information Theory Seminar], University of Cambridge: [https://arxiv.org/pdf/2602.07999 A Unified Framework for Change of Measure Inequalities]
-- 1 April 2026, Imprial College London IPC Lab: Information-Theoretic Generalization Error Bounds via Data Processing Inequality and Typicality
-- 14 June 2025, Invited Talk at Chinese University of Hong Kong (Shenzhen) NCLab: Nonasymptotic Oblivious Relaying and Variable-Length Noisy Lossy Source Coding
-- 29 November 2024, CUHK CSE&IE Theory Talk: Universal Exact Compression of Differentially Private Mechanisms
-- 12 November 2024, CUHK CSE&IE Theory Talk: One-Shot Information Hiding
-- 27 June 2024, CUHK CSE&IE Theory Talk: One-Shot Coding over General Noisy Networks
-- 17 March 2023,  CUHK CSE&IE Theory Talk: Maximal Clique Enumeration in Periodic Graphs
-- 11 November 2022, CUHK CSE&IE Theory Talk: Coding Over Sets for DNA Storage
-- 12 October 2021, CUHK CSE&IE Theory Talk: Wireless Link Scheduling with Propagation Delays
+- 13 May 2026, Invited Talk at [https://talks.cam.ac.uk/talk/index/246731/ University of Cambridge]: [https://arxiv.org/pdf/2602.07999 Change of Measure Inequalities]
+- 1 April 2026, Imprial College London IPC Lab: Information-Theoretic Generalization Error Bounds
+- 14 June 2025, Invited Talk at The Chinese University of Hong Kong (Shenzhen) NCLab: [Slides/ISIT2025_Oblivious.pdf \[Info Bottleneck Channels and Lossy Compression\]]
+- 29 November 2024, CUHK CSE&IE: Universal Exact Compression of Differentially Private Mechanisms
+- 12 November 2024, CUHK CSE&IE: One-Shot Information Hiding
+- 27 June 2024, CUHK CSE&IE: One-Shot Coding over General Noisy Networks
 
 == Service
 
