@@ -2,8 +2,13 @@
 = Publications 
 [https://scholar.google.com/citations?user=M6u1tgUAAAAJ&hl=en \[Google Scholar\]]
 
+
 ~~~
 {Preprints}
+- Watermarkable Multi-Draft Speculative Sampling via Poisson Processes\n 
+*Yanxiao Liu*\*, Sicheng Wan, Zhan Gao, Deniz Gündüz. 
+- ExpBoN: Exponential-Noise Best-of-n for Efficient Test-Time LLM Alignment\n 
+*Yanxiao Liu*\*, Sicheng Wan, Deniz Gündüz. 
 - [https://arxiv.org/pdf/2609.17691 Accelerating Diffusion Sampling via Speculative Draft Trees]\n 
 Marcello Bullo, *Yanxiao Liu*, Öykü Sıla Güner, Arpan Mukherjee, Deniz Gündüz. 
 - [https://arxiv.org/pdf/2608.19869 Sub-optimality of Marton’s Inner Bound for the Two-Receiver Broadcast Channel]\n 
@@ -23,6 +28,7 @@ Gergely Flamich, Öykü Sıla Güner, *Yanxiao Liu*, Deniz Gündüz. Short versi
 - [preprints/preprint_polar.pdf Weighted Polar Codes for Channels with State]\n
 *Yanxiao Liu*, Chih Wei Ling, Cheuk Ting Li. 
 ~~~
+
 
 ~~~
 {Journal Papers}
